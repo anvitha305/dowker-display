@@ -1,4 +1,4 @@
-# Knot Theory
+# Dowker Display
 
 ## Final Objective
 Create an LED display to visualize knots with upto 6 [number of crossings tbd] crossings.
